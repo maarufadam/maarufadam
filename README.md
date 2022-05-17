@@ -9,8 +9,8 @@ I am proud to be a Muslim, living life according to the teachings of the Holy Qu
 I am a seeker of useful knowledge, who is willing to put his knowledge and experience towards achieving righteous goals that strengthen the functions of organizations, community and humanity at large.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [Ma'aruf Mohammed Adamu](http://maarufadam.netlify.app/)
-* ✉️  You can contact me at [maarufmohammedadam@gmail.com](mailto:maarufmohammedadam@gmai.com)
+* 🖥️  See my portfolio at [Ma'aruf Mohammed Adamu](https://maarufadam.netlify.app/)
+* ✉️  You can contact me at [maarufmohammedadam@gmail.com](mailto:maarufmohammedadam@gmail.com)
 * 🚀  I'm currently working on [Unlock Arewa, Deen Compas & Convoyage]
 * 🧠  I'm learning Advanced Laravel & Vue3 & Web3
 * 🤝  I'm open to collaborating on Mobile Apps and Full Stack Web Developement 
@@ -38,11 +38,11 @@ src="https://img.shields.io/github/followers/maarufadam?logo=github&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/maarufadam"><img src="https://github-readme-stats.vercel.app/api?username=maarufadam&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="My GitHub stats" /></a>
+<a href="https://www.github.com/maarufadam"><img src="https://github-readme-stats.vercel.app/api?username=maarufadam&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="My GitHub stats" /></a>
 
-<a href="http://www.github.com/maarufadam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maarufadam&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://www.github.com/maarufadam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maarufadam&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/maarufadam"><img src="https://activity-graph.herokuapp.com/graph?username=maarufadam&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://www.github.com/maarufadam"><img src="https://activity-graph.herokuapp.com/graph?username=maarufadam&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/maarufadam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarufadam&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
