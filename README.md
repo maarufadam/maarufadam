@@ -9,7 +9,7 @@ I am proud to be a Muslim, living life according to the teachings of the Holy Qu
 I am a seeker of useful knowledge, who is willing to put his knowledge and experience towards achieving righteous goals that strengthen the functions of organizations, community and humanity at large.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [Muhammad Buhari](http://maarufadam.netlify.app/)
+* 🖥️  See my portfolio at [Ma'aruf Mohammed Adamu](http://maarufadam.netlify.app/)
 * ✉️  You can contact me at [maarufmohammedadam@gmail.com](mailto:maarufmohammedadam@gmai.com)
 * 🚀  I'm currently working on [Deen Compass & Convoyage]
 * 🧠  I'm learning Advanced Laravel & Vue3 & Web3
